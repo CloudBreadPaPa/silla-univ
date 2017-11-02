@@ -7,7 +7,8 @@ Azure Machine Learning Camp in Silla Univ.
 이 Repo는 Azure Machine Learning in 신라대학교 - 발표자료 & 실습자료 Repo임  
 
 - Github URL : https://github.com/CloudBreadPaPa/silla-univ  
-
+- Azure ML workbench download : https://aka.ms/azureml-wb-msi  
+- Azure ML workbench installation : https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation  
 
 
 ### repo를 fork 후, clone 또는 download 수행
@@ -20,7 +21,7 @@ Azure Machine Learning Camp in Silla Univ.
 
 Game 데모 데이터는 가상의 모바일 게임사 시나리오에서 사용되는 게임사의 사용자 정보 예제 데이터임  
 
-https://github.com/CloudBreadPaPa/azure-ml-busan/tree/master/data 폴더 하위 참조  
+https://github.com/CloudBreadPaPa/silla-univ/tree/master/data 폴더 하위 참조  
 
 
 
